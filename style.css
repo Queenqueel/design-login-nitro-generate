@@ -60,6 +60,12 @@ form {
     padding: 10px;
     border-radius: 2px;
     outline: none;
+    background-color: rgba(202, 202, 202, 0.037);
+    border-bottom: 2px solid #6A3093;
+}
+
+.input-login::placeholder {
+    color: darkgray;
 }
 
 .btn-submit {
